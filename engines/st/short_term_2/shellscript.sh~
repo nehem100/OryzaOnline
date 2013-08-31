@@ -1,0 +1,10 @@
+#
+# My first shell script
+#
+clear
+PASSWORD="P@ssw0rd!"
+echo $PASSWORD>su root
+chmod 777 ./oryza2000.exe control.dat
+./oryza2000.exe control.dat
+echo "Knowledge is Power henry"  
+exit
